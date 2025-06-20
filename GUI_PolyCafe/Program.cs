@@ -1,0 +1,22 @@
+namespace GUI_PolyCafe
+{
+    internal static class Program
+    {
+        /// <summary>
+        ///  The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            // To customize application configuration such as set high DPI settings or default font,
+            // see https://aka.ms/applicationconfiguration.
+            ApplicationConfiguration.Initialize();
+            Application.Run(new frmWelcome());
+        }
+        public static class Session
+        {
+            public static string MaNhanVien { get; set; }
+        }
+
+    }
+}

@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81E74F36-39E9-4D04-A19A-1640C8E33FAE}|GUI_PolyCafe.csproj|e:\\sof2052\\bai lab\\lab3 \u002B 4\\gui_polycafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81E74F36-39E9-4D04-A19A-1640C8E33FAE}|GUI_PolyCafe.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E74F36-39E9-4D04-A19A-1640C8E33FAE}|GUI_PolyCafe.csproj|e:\\sof2052\\bai lab\\lab3 \u002B 4\\gui_polycafe\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E74F36-39E9-4D04-A19A-1640C8E33FAE}|GUI_PolyCafe.csproj|solutionrelative:frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E74F36-39E9-4D04-A19A-1640C8E33FAE}|GUI_PolyCafe.csproj|e:\\sof2052\\bai lab\\lab3 \u002B 4\\gui_polycafe\\frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81E74F36-39E9-4D04-A19A-1640C8E33FAE}|GUI_PolyCafe.csproj|solutionrelative:frmwelcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E74F36-39E9-4D04-A19A-1640C8E33FAE}|GUI_PolyCafe.csproj|e:\\sof2052\\bai lab\\lab3 \u002B 4\\gui_polycafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E74F36-39E9-4D04-A19A-1640C8E33FAE}|GUI_PolyCafe.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "frmNhanVien.cs",
+              "ToolTip": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\frmNhanVien.cs",
+              "RelativeToolTip": "frmNhanVien.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:46:14.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "frmNhanVien.cs",
+              "ToolTip": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:46:10.863Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmWelcome.cs [Design]",
+              "DocumentMoniker": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\frmWelcome.cs",
+              "RelativeDocumentMoniker": "frmWelcome.cs",
+              "ToolTip": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\frmWelcome.cs [Design]",
+              "RelativeToolTip": "frmWelcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:45:56.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\SOF2052\\Bai Lab\\Lab3 \u002B 4\\GUI_PolyCafe\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:37:09.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
